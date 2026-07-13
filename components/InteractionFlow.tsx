@@ -244,7 +244,7 @@ const TicTacToeStep = ({ onComplete }: { onComplete: () => void }) => {
                         animate={{ opacity: 1, y: 0 }}
                         className="text-4xl font-playfair text-white text-center drop-shadow-lg mt-4"
                     >
-                        Hatiku
+                        Lah ichafik a 3omri
                     </motion.h2>
                 )}
             </AnimatePresence>
